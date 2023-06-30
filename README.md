@@ -1,6 +1,7 @@
 Causally-Aware Intraoperative Imputation for Overall Survival Time Prediction (CVPR 2023)
 
 paper: [https://openaccess.thecvf.com/content/CVPR2023/papers/Li_Causally-Aware_Intraoperative_Imputation_for_Overall_Survival_Time_Prediction_CVPR_2023_paper.pdf](https://openaccess.thecvf.com/content/CVPR2023/html/Li_Causally-Aware_Intraoperative_Imputation_for_Overall_Survival_Time_Prediction_CVPR_2023_paper.html)
+
 supple: https://openaccess.thecvf.com/content/CVPR2023/supplemental/Li_Causally-Aware_Intraoperative_Imputation_CVPR_2023_supplemental.pdf
 
 ### MAIN FUNCTIONS
